@@ -36,8 +36,11 @@ nav,
 nav {
   justify-content: space-around;
   align-items: center;
-  height: 17vh;
+  height: 14vh;
   background-color: rgb(177, 178, 178);
+  position: fixed;
+  width: 100%;
+  z-index: 5000;
 }
 
 .nav-links {
@@ -150,7 +153,7 @@ a:hover {
 /* SECTIONS */
 
 section {
-  padding-top: 4vh;
+  padding-top: 10vh;
   height: 96vh;
   margin: 0 10rem;
   box-sizing: border-box;
