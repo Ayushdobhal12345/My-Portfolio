@@ -98,6 +98,8 @@ a:hover {
 }
 
 .menu-links {
+  margin-top: 39px;
+  margin-right: -35px;
   position: absolute;
   top: 100%;
   right: 0;
