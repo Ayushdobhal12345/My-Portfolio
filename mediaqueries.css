@@ -100,4 +100,8 @@
   .text-container {
     text-align: justify;
   }
+  nav {
+    height: 10vh;
+  }
+  
 }
